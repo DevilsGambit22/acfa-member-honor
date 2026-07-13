@@ -1,1 +1,292 @@
+:root {
+  --bg: #050505;
+  --panel: #11100d;
+  --panel-soft: #18150f;
+  --gold: #d6a84b;
+  --gold-light: #f0d38a;
+  --bronze: #8d6128;
+  --text: #f6edd8;
+  --muted: #bfae86;
+  --border: rgba(214, 168, 75, 0.35);
+}
 
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  background: #000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+  color: var(--text);
+}
+
+.hall-card {
+  width: 100%;
+  max-width: 920px;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      circle at top,
+      rgba(214, 168, 75, 0.08),
+      transparent 38%
+    ),
+    linear-gradient(
+      180deg,
+      var(--panel-soft),
+      var(--bg)
+    );
+  border: 2px solid var(--gold);
+  border-radius: 22px;
+  box-shadow: 0 0 30px rgba(214, 168, 75, 0.18);
+}
+
+.hall-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 16px;
+  background:
+    linear-gradient(
+      90deg,
+      var(--bronze),
+      var(--gold),
+      var(--bronze)
+    );
+  color: #140f05;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.header-title {
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+.header-subtitle {
+  margin-top: 4px;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 3px;
+}
+
+.header-crown {
+  font-size: 28px;
+}
+
+.hall-intro {
+  padding: 30px 24px 18px;
+  text-align: center;
+}
+
+.intro-kicker {
+  color: var(--gold);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.hall-intro h1 {
+  margin: 8px 0 10px;
+  color: var(--gold-light);
+  font-size: clamp(26px, 5vw, 40px);
+}
+
+.hall-intro p {
+  max-width: 620px;
+  margin: 0 auto;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.loading-state,
+.empty-state,
+.error-state {
+  padding: 46px 24px;
+  text-align: center;
+  color: var(--muted);
+}
+
+.loading-piece,
+.empty-piece,
+.error-piece {
+  margin-bottom: 14px;
+  color: var(--gold);
+  font-size: 44px;
+}
+
+.honor-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  padding: 20px 24px 32px;
+}
+
+.member-card {
+  position: relative;
+  overflow: hidden;
+  padding: 22px 18px 20px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background:
+    radial-gradient(
+      circle at top,
+      rgba(214, 168, 75, 0.09),
+      transparent 42%
+    ),
+    rgba(255, 255, 255, 0.02);
+  text-align: center;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.28);
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.member-card::before {
+  content: "♛";
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  color: rgba(214, 168, 75, 0.22);
+  font-size: 26px;
+}
+
+.member-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--gold);
+  box-shadow:
+    0 12px 28px rgba(0, 0, 0, 0.36),
+    0 0 16px rgba(214, 168, 75, 0.13);
+}
+
+.member-avatar {
+  width: 126px;
+  height: 126px;
+  object-fit: cover;
+  border: 4px solid var(--gold);
+  border-radius: 50%;
+  background: #111;
+  box-shadow: 0 0 16px rgba(214, 168, 75, 0.22);
+}
+
+.member-name {
+  margin-top: 16px;
+  color: var(--gold-light);
+  font-size: 20px;
+  font-weight: 900;
+  overflow-wrap: anywhere;
+}
+
+.member-rating {
+  margin-top: 10px;
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.member-date {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.profile-button {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 11px 20px;
+  border-radius: 10px;
+  background:
+    linear-gradient(
+      90deg,
+      var(--bronze),
+      var(--gold)
+    );
+  color: #140f05;
+  font-size: 14px;
+  font-weight: 900;
+  text-decoration: none;
+  transition:
+    transform 0.18s ease,
+    filter 0.18s ease;
+}
+
+.profile-button:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+}
+
+.hall-footer {
+  padding: 18px;
+  border-top: 1px solid rgba(214, 168, 75, 0.18);
+  color: var(--muted);
+  text-align: center;
+  font-size: 13px;
+}
+
+@media (max-width: 760px) {
+  .honor-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  body {
+    padding: 6px;
+  }
+
+  .hall-card {
+    border-radius: 16px;
+  }
+
+  .hall-header {
+    gap: 10px;
+    padding: 13px 10px;
+  }
+
+  .header-title {
+    font-size: 18px;
+  }
+
+  .header-subtitle {
+    font-size: 10px;
+    letter-spacing: 2px;
+  }
+
+  .header-crown {
+    font-size: 22px;
+  }
+
+  .hall-intro {
+    padding: 24px 16px 12px;
+  }
+
+  .honor-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    padding: 16px 14px 24px;
+  }
+
+  .member-card {
+    padding: 20px 16px;
+  }
+
+  .member-avatar {
+    width: 118px;
+    height: 118px;
+  }
+}
