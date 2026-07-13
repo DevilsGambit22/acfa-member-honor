@@ -1,1 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
 
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>ACFA Member Spotlight</title>
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+</head>
+
+<body>
+
+  <main class="spotlight-card" id="spotlightCard">
+
+    <header class="spotlight-header">
+      <span class="header-crown">♛</span>
+
+      <div>
+        <div class="header-title">
+          Member Spotlight
+        </div>
+
+        <div class="header-subtitle">
+          Every Player Belongs
+        </div>
+      </div>
+
+      <span class="header-crown">♛</span>
+    </header>
+
+    <section
+      class="loading-state"
+      id="loadingState"
+    >
+      <div class="loading-piece">♟</div>
+      <p>Loading this week’s featured member...</p>
+    </section>
+
+    <section
+      class="member-content"
+      id="memberContent"
+      hidden
+    >
+
+      <div class="avatar-frame">
+        <img
+          id="memberAvatar"
+          class="member-avatar"
+          src=""
+          alt=""
+        >
+
+        <div
+          class="title-badge"
+          id="titleBadge"
+          hidden
+        ></div>
+      </div>
+
+      <div class="member-details">
+
+        <div class="featured-label">
+          This Week’s Featured Member
+        </div>
+
+        <a
+          id="memberName"
+          class="member-name"
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Username
+        </a>
+
+        <div
+          class="rating-highlight"
+          id="ratingHighlight"
+        >
+          <span class="rating-label">
+            Highest Rating
+          </span>
+
+          <span
+            class="rating-value"
+            id="highestRating"
+          >
+            Unrated
+          </span>
+        </div>
+
+        <div class="rating-grid">
+
+          <div class="rating-box">
+            <span class="rating-type">Rapid</span>
+            <span
+              class="rating-number"
+              id="rapidRating"
+            >—</span>
+          </div>
+
+          <div class="rating-box">
+            <span class="rating-type">Blitz</span>
+            <span
+              class="rating-number"
+              id="blitzRating"
+            >—</span>
+          </div>
+
+          <div class="rating-box">
+            <span class="rating-type">Bullet</span>
+            <span
+              class="rating-number"
+              id="bulletRating"
+            >—</span>
+          </div>
+
+          <div class="rating-box">
+            <span class="rating-type">Daily</span>
+            <span
+              class="rating-number"
+              id="dailyRating"
+            >—</span>
+          </div>
+
+        </div>
+
+        <div class="member-meta">
+
+          <div class="meta-item">
+            <span class="meta-label">
+              Joined ACFA
+            </span>
+
+            <span
+              class="meta-value"
+              id="joinedAcfa"
+            >
+              —
+            </span>
+          </div>
+
+          <div class="meta-item">
+            <span class="meta-label">
+              Featured
+            </span>
+
+            <span
+              class="meta-value"
+              id="featuredDate"
+            >
+              —
+            </span>
+          </div>
+
+        </div>
+
+        <a
+          id="profileButton"
+          class="profile-button"
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View Chess.com Profile
+        </a>
+
+      </div>
+
+    </section>
+
+    <section
+      class="error-state"
+      id="errorState"
+      hidden
+    >
+      <div class="error-piece">♙</div>
+
+      <p>
+        The Member Spotlight could not be loaded.
+      </p>
+    </section>
+
+    <footer class="spotlight-footer">
+      Every Player Belongs • Every Move Matters
+    </footer>
+
+  </main>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
