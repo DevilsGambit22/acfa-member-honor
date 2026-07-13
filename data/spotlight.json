@@ -1,1 +1,19 @@
-
+{
+  "username": null,
+  "title": null,
+  "avatar": null,
+  "profile_url": null,
+  "country_url": null,
+  "status": null,
+  "joined_chess_com": null,
+  "joined_acfa": null,
+  "rapid": null,
+  "blitz": null,
+  "bullet": null,
+  "daily": null,
+  "highest_rating": {
+    "label": "Unrated",
+    "value": null
+  },
+  "featured_at": null
+}
