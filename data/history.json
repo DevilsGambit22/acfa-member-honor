@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "username": "gm-degoat",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/519543903.5dfa369e.200x200o.a0180e53cfaf.jpg",
+    "profile_url": "https://www.chess.com/member/GM-DeGoat",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 717
+    },
+    "featured_at": "2026-07-13T01:56:49.556Z"
+  }
+]

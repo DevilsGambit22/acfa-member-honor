@@ -1,19 +1,19 @@
 {
-  "username": null,
+  "username": "gm-degoat",
   "title": null,
-  "avatar": null,
-  "profile_url": null,
-  "country_url": null,
-  "status": null,
-  "joined_chess_com": null,
-  "joined_acfa": null,
-  "rapid": null,
-  "blitz": null,
-  "bullet": null,
-  "daily": null,
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/519543903.5dfa369e.200x200o.a0180e53cfaf.jpg",
+  "profile_url": "https://www.chess.com/member/GM-DeGoat",
+  "country_url": "https://api.chess.com/pub/country/CA",
+  "status": "basic",
+  "joined_chess_com": "2026-01-15T01:21:23.000Z",
+  "joined_acfa": "2026-07-02T03:05:37.000Z",
+  "rapid": 551,
+  "blitz": 524,
+  "bullet": 505,
+  "daily": 717,
   "highest_rating": {
-    "label": "Unrated",
-    "value": null
+    "label": "Daily",
+    "value": 717
   },
-  "featured_at": null
+  "featured_at": "2026-07-13T01:56:49.556Z"
 }
