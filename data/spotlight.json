@@ -1,19 +1,19 @@
 {
-  "username": "gm-degoat",
+  "username": "codex_s1",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/519543903.5dfa369e.200x200o.a0180e53cfaf.jpg",
-  "profile_url": "https://www.chess.com/member/GM-DeGoat",
-  "country_url": "https://api.chess.com/pub/country/CA",
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/169009795.2119133e.200x200o.74636e4c1d67.png",
+  "profile_url": "https://www.chess.com/member/Codex_s1",
+  "country_url": "https://api.chess.com/pub/country/IN",
   "status": "basic",
-  "joined_chess_com": "2026-01-15T01:21:23.000Z",
-  "joined_acfa": "2026-07-02T03:05:37.000Z",
-  "rapid": 551,
-  "blitz": 524,
-  "bullet": 505,
-  "daily": 717,
+  "joined_chess_com": "2022-01-15T11:07:37.000Z",
+  "joined_acfa": "2026-07-03T14:35:51.000Z",
+  "rapid": 1260,
+  "blitz": 1031,
+  "bullet": 941,
+  "daily": 576,
   "highest_rating": {
-    "label": "Daily",
-    "value": 717
+    "label": "Rapid",
+    "value": 1260
   },
-  "featured_at": "2026-07-13T01:56:49.556Z"
+  "featured_at": "2026-07-13T16:44:02.941Z"
 }
