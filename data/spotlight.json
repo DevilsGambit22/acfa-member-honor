@@ -1,19 +1,19 @@
 {
-  "username": "xx_somedudenamedj1_xx",
+  "username": "jjashtray",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/572425678.dd076f6d.200x200o.9e930e9321c9.png",
-  "profile_url": "https://www.chess.com/member/xx_somedudenamedj1_xx",
+  "avatar": null,
+  "profile_url": "https://www.chess.com/member/JJashtray",
   "country_url": "https://api.chess.com/pub/country/US",
   "status": "basic",
-  "joined_chess_com": "2026-06-26T20:58:50.000Z",
-  "joined_acfa": "2026-07-12T01:34:19.000Z",
-  "rapid": 109,
-  "blitz": 209,
-  "bullet": 124,
-  "daily": 677,
+  "joined_chess_com": "2025-08-21T17:35:11.000Z",
+  "joined_acfa": "2026-06-14T01:50:22.000Z",
+  "rapid": 523,
+  "blitz": 619,
+  "bullet": null,
+  "daily": null,
   "highest_rating": {
-    "label": "Daily",
-    "value": 677
+    "label": "Blitz",
+    "value": 619
   },
-  "featured_at": "2026-07-20T16:03:06.724Z"
+  "featured_at": "2026-07-27T16:35:11.602Z"
 }

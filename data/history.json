@@ -31,5 +31,16 @@
       "value": 677
     },
     "featured_at": "2026-07-20T16:03:06.724Z"
+  },
+  {
+    "username": "jjashtray",
+    "title": null,
+    "avatar": null,
+    "profile_url": "https://www.chess.com/member/JJashtray",
+    "highest_rating": {
+      "label": "Blitz",
+      "value": 619
+    },
+    "featured_at": "2026-07-27T16:35:11.602Z"
   }
 ]
