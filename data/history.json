@@ -42,5 +42,16 @@
       "value": 619
     },
     "featured_at": "2026-07-27T16:35:11.602Z"
+  },
+  {
+    "username": "iexplorechess",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49559294.628ba3b7.200x200o.6bdb28e05c93.jpeg",
+    "profile_url": "https://www.chess.com/member/Iexplorechess",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 1174
+    },
+    "featured_at": "2026-08-03T16:42:45.526Z"
   }
 ]
