@@ -53,5 +53,16 @@
       "value": 1174
     },
     "featured_at": "2026-08-03T16:42:45.526Z"
+  },
+  {
+    "username": "sheep_king123",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/494266861.3bf47de2.200x200o.8989ba6638f5.jpg",
+    "profile_url": "https://www.chess.com/member/SHEEP_KING123",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 442
+    },
+    "featured_at": "2026-08-10T15:18:26.304Z"
   }
 ]
