@@ -64,5 +64,16 @@
       "value": 442
     },
     "featured_at": "2026-08-10T15:18:26.304Z"
+  },
+  {
+    "username": "snowchi7d",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/435958519.386ef296.200x200o.5fc8103cd691.jpg",
+    "profile_url": "https://www.chess.com/member/SnowChi7d",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 643
+    },
+    "featured_at": "2026-08-17T14:47:33.313Z"
   }
 ]
