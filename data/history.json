@@ -75,5 +75,16 @@
       "value": 643
     },
     "featured_at": "2026-08-17T14:47:33.313Z"
+  },
+  {
+    "username": "officiaiblogger",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/313253847.e5891c84.200x200o.a10333e3e6eb.png",
+    "profile_url": "https://www.chess.com/member/OfficiaIBlogger",
+    "highest_rating": {
+      "label": "Bullet",
+      "value": 1942
+    },
+    "featured_at": "2026-08-24T15:03:26.424Z"
   }
 ]
