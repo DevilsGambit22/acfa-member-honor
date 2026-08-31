@@ -1,19 +1,19 @@
 {
-  "username": "officiaiblogger",
+  "username": "stefhany115",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/313253847.e5891c84.200x200o.a10333e3e6eb.png",
-  "profile_url": "https://www.chess.com/member/OfficiaIBlogger",
-  "country_url": "https://api.chess.com/pub/country/FM",
-  "status": "premium",
-  "joined_chess_com": "2023-09-16T14:38:29.000Z",
-  "joined_acfa": "2026-08-22T09:33:34.000Z",
-  "rapid": 1713,
-  "blitz": 1572,
-  "bullet": 1942,
-  "daily": 1128,
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504772897.aa9d2cd3.200x200o.bc368af140ed.jpg",
+  "profile_url": "https://www.chess.com/member/stefhany115",
+  "country_url": "https://api.chess.com/pub/country/VE",
+  "status": "basic",
+  "joined_chess_com": "2025-11-27T14:16:09.000Z",
+  "joined_acfa": "2026-07-31T15:50:02.000Z",
+  "rapid": 421,
+  "blitz": 322,
+  "bullet": null,
+  "daily": null,
   "highest_rating": {
-    "label": "Bullet",
-    "value": 1942
+    "label": "Rapid",
+    "value": 421
   },
-  "featured_at": "2026-08-24T15:03:26.424Z"
+  "featured_at": "2026-08-31T20:09:38.189Z"
 }

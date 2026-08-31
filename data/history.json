@@ -86,5 +86,16 @@
       "value": 1942
     },
     "featured_at": "2026-08-24T15:03:26.424Z"
+  },
+  {
+    "username": "stefhany115",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504772897.aa9d2cd3.200x200o.bc368af140ed.jpg",
+    "profile_url": "https://www.chess.com/member/stefhany115",
+    "highest_rating": {
+      "label": "Rapid",
+      "value": 421
+    },
+    "featured_at": "2026-08-31T20:09:38.189Z"
   }
 ]
