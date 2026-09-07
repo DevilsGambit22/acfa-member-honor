@@ -1,19 +1,19 @@
 {
-  "username": "stefhany115",
+  "username": "avismart4799",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504772897.aa9d2cd3.200x200o.bc368af140ed.jpg",
-  "profile_url": "https://www.chess.com/member/stefhany115",
-  "country_url": "https://api.chess.com/pub/country/VE",
+  "avatar": null,
+  "profile_url": "https://www.chess.com/member/avismart4799",
+  "country_url": "https://api.chess.com/pub/country/IN",
   "status": "basic",
-  "joined_chess_com": "2025-11-27T14:16:09.000Z",
-  "joined_acfa": "2026-07-31T15:50:02.000Z",
-  "rapid": 421,
-  "blitz": 322,
+  "joined_chess_com": "2023-09-05T18:51:31.000Z",
+  "joined_acfa": "2026-07-28T07:13:44.000Z",
+  "rapid": 209,
+  "blitz": null,
   "bullet": null,
-  "daily": null,
+  "daily": 400,
   "highest_rating": {
-    "label": "Rapid",
-    "value": 421
+    "label": "Daily",
+    "value": 400
   },
-  "featured_at": "2026-08-31T20:09:38.189Z"
+  "featured_at": "2026-09-07T18:45:19.503Z"
 }

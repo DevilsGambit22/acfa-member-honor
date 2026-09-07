@@ -97,5 +97,16 @@
       "value": 421
     },
     "featured_at": "2026-08-31T20:09:38.189Z"
+  },
+  {
+    "username": "avismart4799",
+    "title": null,
+    "avatar": null,
+    "profile_url": "https://www.chess.com/member/avismart4799",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 400
+    },
+    "featured_at": "2026-09-07T18:45:19.503Z"
   }
 ]
