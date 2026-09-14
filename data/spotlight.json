@@ -1,19 +1,19 @@
 {
-  "username": "avismart4799",
+  "username": "endgameexecutionnomercy64",
   "title": null,
-  "avatar": null,
-  "profile_url": "https://www.chess.com/member/avismart4799",
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/430528265.73c591a1.200x200o.24ddb0d917bd.jpg",
+  "profile_url": "https://www.chess.com/member/EndGameExecutionNoMercy64",
   "country_url": "https://api.chess.com/pub/country/IN",
   "status": "basic",
-  "joined_chess_com": "2023-09-05T18:51:31.000Z",
-  "joined_acfa": "2026-07-28T07:13:44.000Z",
-  "rapid": 209,
-  "blitz": null,
-  "bullet": null,
-  "daily": 400,
+  "joined_chess_com": "2025-02-19T12:58:14.000Z",
+  "joined_acfa": "2026-07-29T14:47:10.000Z",
+  "rapid": 741,
+  "blitz": 471,
+  "bullet": 581,
+  "daily": 613,
   "highest_rating": {
-    "label": "Daily",
-    "value": 400
+    "label": "Rapid",
+    "value": 741
   },
-  "featured_at": "2026-09-07T18:45:19.503Z"
+  "featured_at": "2026-09-14T19:26:29.443Z"
 }
