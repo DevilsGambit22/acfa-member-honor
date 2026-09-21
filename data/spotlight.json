@@ -1,19 +1,19 @@
 {
-  "username": "endgameexecutionnomercy64",
+  "username": "reckz99",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/430528265.73c591a1.200x200o.24ddb0d917bd.jpg",
-  "profile_url": "https://www.chess.com/member/EndGameExecutionNoMercy64",
-  "country_url": "https://api.chess.com/pub/country/IN",
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/174896649.f3f84230.200x200o.886b5e7db2bf.jpg",
+  "profile_url": "https://www.chess.com/member/reckz99",
+  "country_url": "https://api.chess.com/pub/country/US",
   "status": "basic",
-  "joined_chess_com": "2025-02-19T12:58:14.000Z",
-  "joined_acfa": "2026-07-29T14:47:10.000Z",
-  "rapid": 741,
-  "blitz": 471,
-  "bullet": 581,
-  "daily": 613,
+  "joined_chess_com": "2022-02-28T18:43:23.000Z",
+  "joined_acfa": "2026-07-28T15:44:57.000Z",
+  "rapid": 755,
+  "blitz": 459,
+  "bullet": 679,
+  "daily": 900,
   "highest_rating": {
-    "label": "Rapid",
-    "value": 741
+    "label": "Daily",
+    "value": 900
   },
-  "featured_at": "2026-09-14T19:26:29.443Z"
+  "featured_at": "2026-09-21T19:32:13.902Z"
 }

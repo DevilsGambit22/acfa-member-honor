@@ -119,5 +119,16 @@
       "value": 741
     },
     "featured_at": "2026-09-14T19:26:29.443Z"
+  },
+  {
+    "username": "reckz99",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/174896649.f3f84230.200x200o.886b5e7db2bf.jpg",
+    "profile_url": "https://www.chess.com/member/reckz99",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 900
+    },
+    "featured_at": "2026-09-21T19:32:13.902Z"
   }
 ]
