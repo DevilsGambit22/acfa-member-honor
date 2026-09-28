@@ -1,19 +1,19 @@
 {
-  "username": "reckz99",
+  "username": "imaginedragons348",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/174896649.f3f84230.200x200o.886b5e7db2bf.jpg",
-  "profile_url": "https://www.chess.com/member/reckz99",
-  "country_url": "https://api.chess.com/pub/country/US",
-  "status": "basic",
-  "joined_chess_com": "2022-02-28T18:43:23.000Z",
-  "joined_acfa": "2026-07-28T15:44:57.000Z",
-  "rapid": 755,
-  "blitz": 459,
-  "bullet": 679,
-  "daily": 900,
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/539700465.d17cc7d7.200x200o.478ec2d1ee2f.jpg",
+  "profile_url": "https://www.chess.com/member/Imaginedragons348",
+  "country_url": "https://api.chess.com/pub/country/TV",
+  "status": "premium",
+  "joined_chess_com": "2026-03-13T22:56:54.000Z",
+  "joined_acfa": "2026-09-11T00:02:20.000Z",
+  "rapid": 1459,
+  "blitz": 1458,
+  "bullet": 1535,
+  "daily": 1028,
   "highest_rating": {
-    "label": "Daily",
-    "value": 900
+    "label": "Bullet",
+    "value": 1535
   },
-  "featured_at": "2026-09-21T19:32:13.902Z"
+  "featured_at": "2026-09-28T20:35:32.177Z"
 }

@@ -130,5 +130,16 @@
       "value": 900
     },
     "featured_at": "2026-09-21T19:32:13.902Z"
+  },
+  {
+    "username": "imaginedragons348",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/539700465.d17cc7d7.200x200o.478ec2d1ee2f.jpg",
+    "profile_url": "https://www.chess.com/member/Imaginedragons348",
+    "highest_rating": {
+      "label": "Bullet",
+      "value": 1535
+    },
+    "featured_at": "2026-09-28T20:35:32.177Z"
   }
 ]
