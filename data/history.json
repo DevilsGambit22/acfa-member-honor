@@ -141,5 +141,16 @@
       "value": 1535
     },
     "featured_at": "2026-09-28T20:35:32.177Z"
+  },
+  {
+    "username": "ridayveer01",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/540564621.1d07f0a5.200x200o.4fe77c83fcf8.png",
+    "profile_url": "https://www.chess.com/member/Ridayveer01",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 1029
+    },
+    "featured_at": "2026-10-05T21:30:25.293Z"
   }
 ]
