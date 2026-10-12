@@ -152,5 +152,16 @@
       "value": 1029
     },
     "featured_at": "2026-10-05T21:30:25.293Z"
+  },
+  {
+    "username": "schachtalent123",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/217516951.0cb0344d.200x200o.468fd0780eed.jpg",
+    "profile_url": "https://www.chess.com/member/Schachtalent123",
+    "highest_rating": {
+      "label": "Bullet",
+      "value": 1705
+    },
+    "featured_at": "2026-10-12T22:09:27.391Z"
   }
 ]

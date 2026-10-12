@@ -1,19 +1,19 @@
 {
-  "username": "ridayveer01",
+  "username": "schachtalent123",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/540564621.1d07f0a5.200x200o.4fe77c83fcf8.png",
-  "profile_url": "https://www.chess.com/member/Ridayveer01",
-  "country_url": "https://api.chess.com/pub/country/CA",
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/217516951.0cb0344d.200x200o.468fd0780eed.jpg",
+  "profile_url": "https://www.chess.com/member/Schachtalent123",
+  "country_url": "https://api.chess.com/pub/country/DE",
   "status": "premium",
-  "joined_chess_com": "2026-03-16T23:15:25.000Z",
-  "joined_acfa": "2026-07-28T03:45:41.000Z",
-  "rapid": 654,
-  "blitz": 674,
-  "bullet": 729,
-  "daily": 1029,
+  "joined_chess_com": "2022-12-28T09:08:53.000Z",
+  "joined_acfa": "2026-09-01T12:19:28.000Z",
+  "rapid": 1420,
+  "blitz": 1347,
+  "bullet": 1705,
+  "daily": 950,
   "highest_rating": {
-    "label": "Daily",
-    "value": 1029
+    "label": "Bullet",
+    "value": 1705
   },
-  "featured_at": "2026-10-05T21:30:25.293Z"
+  "featured_at": "2026-10-12T22:09:27.391Z"
 }
