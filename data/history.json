@@ -163,5 +163,16 @@
       "value": 1705
     },
     "featured_at": "2026-10-12T22:09:27.391Z"
+  },
+  {
+    "username": "wapabjo",
+    "title": null,
+    "avatar": null,
+    "profile_url": "https://www.chess.com/member/wapabjo",
+    "highest_rating": {
+      "label": "Bullet",
+      "value": 870
+    },
+    "featured_at": "2026-10-19T19:59:13.163Z"
   }
 ]
