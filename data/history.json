@@ -174,5 +174,16 @@
       "value": 870
     },
     "featured_at": "2026-10-19T19:59:13.163Z"
+  },
+  {
+    "username": "sethazimm",
+    "title": null,
+    "avatar": null,
+    "profile_url": "https://www.chess.com/member/sethazimm",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 1298
+    },
+    "featured_at": "2026-10-26T19:58:28.731Z"
   }
 ]

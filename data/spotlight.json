@@ -1,19 +1,19 @@
 {
-  "username": "wapabjo",
+  "username": "sethazimm",
   "title": null,
   "avatar": null,
-  "profile_url": "https://www.chess.com/member/wapabjo",
-  "country_url": "https://api.chess.com/pub/country/TN",
-  "status": "basic",
-  "joined_chess_com": "2025-10-12T17:48:14.000Z",
-  "joined_acfa": "2026-05-18T20:39:19.000Z",
-  "rapid": 810,
-  "blitz": 665,
-  "bullet": 870,
-  "daily": 294,
+  "profile_url": "https://www.chess.com/member/sethazimm",
+  "country_url": "https://api.chess.com/pub/country/US",
+  "status": "premium",
+  "joined_chess_com": "2023-04-25T00:24:57.000Z",
+  "joined_acfa": "2026-06-16T03:01:01.000Z",
+  "rapid": 1177,
+  "blitz": 689,
+  "bullet": 524,
+  "daily": 1298,
   "highest_rating": {
-    "label": "Bullet",
-    "value": 870
+    "label": "Daily",
+    "value": 1298
   },
-  "featured_at": "2026-10-19T19:59:13.163Z"
+  "featured_at": "2026-10-26T19:58:28.731Z"
 }
