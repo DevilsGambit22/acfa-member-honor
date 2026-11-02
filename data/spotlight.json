@@ -1,19 +1,19 @@
 {
-  "username": "sethazimm",
+  "username": "cookie00190",
   "title": null,
-  "avatar": null,
-  "profile_url": "https://www.chess.com/member/sethazimm",
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/476375758.59f8cc80.200x200o.ea2bda819612.png",
+  "profile_url": "https://www.chess.com/member/Cookie00190",
   "country_url": "https://api.chess.com/pub/country/US",
-  "status": "premium",
-  "joined_chess_com": "2023-04-25T00:24:57.000Z",
-  "joined_acfa": "2026-06-16T03:01:01.000Z",
-  "rapid": 1177,
-  "blitz": 689,
-  "bullet": 524,
-  "daily": 1298,
+  "status": "basic",
+  "joined_chess_com": "2025-08-21T16:28:15.000Z",
+  "joined_acfa": "2026-08-20T12:43:38.000Z",
+  "rapid": 100,
+  "blitz": 100,
+  "bullet": 100,
+  "daily": 454,
   "highest_rating": {
     "label": "Daily",
-    "value": 1298
+    "value": 454
   },
-  "featured_at": "2026-10-26T19:58:28.731Z"
+  "featured_at": "2026-11-02T22:48:05.986Z"
 }
