@@ -196,5 +196,16 @@
       "value": 454
     },
     "featured_at": "2026-11-02T22:48:05.986Z"
+  },
+  {
+    "username": "bgeerr",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/409949573.d3237fa8.200x200o.27db3f9798df.jpg",
+    "profile_url": "https://www.chess.com/member/Bgeerr",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 726
+    },
+    "featured_at": "2026-11-09T23:27:40.016Z"
   }
 ]

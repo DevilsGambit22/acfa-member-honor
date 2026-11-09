@@ -1,19 +1,19 @@
 {
-  "username": "cookie00190",
+  "username": "bgeerr",
   "title": null,
-  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/476375758.59f8cc80.200x200o.ea2bda819612.png",
-  "profile_url": "https://www.chess.com/member/Cookie00190",
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/409949573.d3237fa8.200x200o.27db3f9798df.jpg",
+  "profile_url": "https://www.chess.com/member/Bgeerr",
   "country_url": "https://api.chess.com/pub/country/US",
-  "status": "basic",
-  "joined_chess_com": "2025-08-21T16:28:15.000Z",
-  "joined_acfa": "2026-08-20T12:43:38.000Z",
-  "rapid": 100,
-  "blitz": 100,
-  "bullet": 100,
-  "daily": 454,
+  "status": "premium",
+  "joined_chess_com": "2024-12-16T21:37:21.000Z",
+  "joined_acfa": "2026-06-19T02:29:09.000Z",
+  "rapid": 268,
+  "blitz": 260,
+  "bullet": null,
+  "daily": 726,
   "highest_rating": {
     "label": "Daily",
-    "value": 454
+    "value": 726
   },
-  "featured_at": "2026-11-02T22:48:05.986Z"
+  "featured_at": "2026-11-09T23:27:40.016Z"
 }
