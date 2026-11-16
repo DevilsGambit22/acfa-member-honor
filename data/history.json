@@ -207,5 +207,16 @@
       "value": 726
     },
     "featured_at": "2026-11-09T23:27:40.016Z"
+  },
+  {
+    "username": "bobcat7ko",
+    "title": null,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/395622615.a234a7c6.200x200o.06cbfd4081ca.png",
+    "profile_url": "https://www.chess.com/member/bobcat7ko",
+    "highest_rating": {
+      "label": "Daily",
+      "value": 176
+    },
+    "featured_at": "2026-11-16T23:25:07.111Z"
   }
 ]
